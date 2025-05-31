@@ -1,2 +1,1 @@
-"# Git Remote Practice" 
-Nguyễn Văn A
+# Tran Anh Duc
